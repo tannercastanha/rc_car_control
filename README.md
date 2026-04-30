@@ -32,12 +32,12 @@ TIM2:
 - Clock Source: Internal Clock
 - Channel 1: Input Capture direct mode
 - Channel 2: Input Capture direct mode
-- Prescalre 83
+- Prescaler 83
 - Counter Period: 65535
 
 TIM3:
 - Clock Source: Internal Clock
 - Channel 1: PWM Generation CH1
 - Channel 2: PWM Generation CH2
-- Prescalre 83
+- Prescaler 83
 - Counter Period: 100
